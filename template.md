@@ -8,7 +8,7 @@ Quick summary of what user impact was, how long it was, and how we fixed it.
 
 ## Timeline
 
-All times in {{ most convenient timezone}}
+All times in Easter Time Zone
 
 ### {{ yyyy-mm-dd hh:mm }}
 
