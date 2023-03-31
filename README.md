@@ -4,7 +4,7 @@ This repository contains incident reports for all Culture Creates products and s
 
 ## How to document an incident?
 
-Copy the `template.md` file to a new file named `YYYY-mm-dd-title-of-incident.md`, eg. `2021-09-08-database-outage.md`. Make sure the date is correct for UTC rather than your local time zone, for California staff this might mean the incident happened "tomorrow". Then fill in all the fields in the template and create a Pull Request. The [my team] team will review and merge it.
+Create a new issue using the incident report template. Name the issue `YYYY-mm-dd-title-of-incident.md`, eg. `2021-09-08 database-outage`. Make sure the date is correct for EST. Then fill in all the fields in the template. 
 
 ## What counts as an incident?
 
