@@ -4,7 +4,7 @@ This repository contains incident reports for all Culture Creates products and s
 
 ## How to document an incident?
 
-Create a new issue using the incident report template. Name the issue `YYYY-mm-dd-title-of-incident.md`, eg. `2021-09-08 database-outage`. Make sure the date is correct for EST. Then fill in all the fields in the template. 
+Create a new issue bu clicking [Issues](https://github.com/culturecreates/incident-reports/issues), "add new" and choosing the Incient report template. Name the issue `YYYY-mm-dd, title-of-incident`. Make sure the date is correct for EST. Then fill in all the fields in the template. 
 
 ## What counts as an incident?
 
