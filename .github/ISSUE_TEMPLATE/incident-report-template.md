@@ -1,8 +1,8 @@
 ---
 name: Incident Report Template
 about: Report incidents for Culture Creates products and services
-title: "{{ incident date: yyyy-mm-dd }}, {{ incident name }}"
-labels: ''
+title: "{{ incident date: yyyy-mm-dd }} {{ incident name }}"
+labels: 'incident'
 assignees: ''
 
 ---
