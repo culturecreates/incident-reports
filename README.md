@@ -4,7 +4,7 @@ This repository contains incident reports for all Culture Creates products and s
 
 ## How to document an incident?
 
-Create a new issue using the [Incident report template](https://github.com/culturecreates/incident-reports/issues/new?assignees=&labels=incident&projects=&template=incident-report-template.md&title=%7B%7B+incident+date%3A+yyyy-mm-dd+%7D%7D+%7B%7B+incident+name+%7D%7D). Make sure the date and time is in EST time zone. Then fill in all the fields in the template. 
+Create a new issue using the [Incident report template](https://github.com/culturecreates/incident-reports/issues/new/choose). Make sure the date and time is in EST time zone. Then fill in all the fields in the template. 
 
 ## What counts as an incident?
 
