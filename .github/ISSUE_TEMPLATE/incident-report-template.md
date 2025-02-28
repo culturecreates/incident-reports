@@ -1,9 +1,9 @@
 ---
-name: Incident Report Template
-about: Report incidents for Culture Creates products and services
+name: CMS Incident Report Template
+about: Report incidents for CMS incendents to websites using CMS API, Widget, Image Server, and CMS Admin users. 
 title: "{{ incident date: yyyy-mm-dd }} {{ incident name }}"
-labels: 'incident'
-assignees: ''
+labels: 'incident,Footlight CMS'
+assignees: 'saumier,sahalali'
 
 ---
 
