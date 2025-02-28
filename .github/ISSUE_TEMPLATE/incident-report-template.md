@@ -1,6 +1,6 @@
 ---
 name: CMS Incident Report Template
-about: Report incidents for CMS incendents to websites using CMS API, Widget, Image Server, and CMS Admin users. 
+about: Report incidents for Footlight CMS incidents impacting websites using CMS Open API, Widget, Image Server, and CMS Admin users. 
 title: "{{ incident date: yyyy-mm-dd }} {{ incident name }}"
 labels: 'incident,Footlight CMS'
 assignees: 'saumier,sahalali'
