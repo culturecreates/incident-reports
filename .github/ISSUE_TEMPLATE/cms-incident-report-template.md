@@ -1,5 +1,5 @@
 ---
-name: CMS Incident Report Template
+name: Footlight CMS
 about: Report for Footlight CMS incidents impacting websites using CMS Open API, Widget, Image Server, and CMS Admin users. 
 title: "{{ incident date: yyyy-mm-dd }} {{ incident name }}"
 labels: 'incident,Footlight CMS'
