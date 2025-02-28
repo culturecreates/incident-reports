@@ -1,5 +1,5 @@
 ---
-name: Artsdata Incident Report Template
+name: Artsdata
 about: Report for Artsdata incidents impacting Artsdata APIs and kg.artsdata.ca. 
 title: "{{ incident date: yyyy-mm-dd }} {{ incident name }}"
 labels: 'incident,Artsdata'
