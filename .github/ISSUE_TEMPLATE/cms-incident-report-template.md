@@ -33,10 +33,7 @@ More details.
 
 ### What went well
 
-List of things that went well. For example,
-
-1. We were alerted to the outage by automated bots before it affected users
-2. The staging cluster helped us catch this before it went to prod
+{{ TODO: List of things that went well.}}
 
 ### What went wrong
 
