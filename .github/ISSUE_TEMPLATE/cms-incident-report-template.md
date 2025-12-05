@@ -40,27 +40,15 @@ List of things that went well. For example,
 
 ### What went wrong
 
-Things that could have gone better. Ideally these should result in concrete
+{{ TODO: Things that could have gone better. Ideally these should result in concrete
 action items that have GitHub issues created for them and linked to under
-Action items. For example,
-
-1. We do not record the number of hub spawn errors in a clear and useful way,
-   and hence took a long time to find out that was happening.
-2. Our culler process needs better logging, since it is somewhat opaque now
-   and we do not know why restarting it fixed it.
+Action items.}}
 
 ### Where we got lucky
 
-These are good things that happened to us but not because we had planned for them.
-For example,
-
-1. We noticed the outage was going to happen a few minutes before it did because
-   we were watching logs for something unrelated.
+{{ TODO: These are good things that happened to us but not because we had planned for them.}}
 
 ## Action items
-
-These are only sample subheadings. Every action item should have a GitHub issue
-(even a small skeleton of one) attached to it, so these do not get forgotten.
 
 ### Process improvements
 
